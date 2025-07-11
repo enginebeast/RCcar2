@@ -5,7 +5,7 @@
 - Level of arduino
 - DC motor
 - Motor driver
-- Two gear
+- Multiple gears
 
 ### Building a steering system  
 - Level of arduino
