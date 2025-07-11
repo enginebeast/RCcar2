@@ -3,9 +3,14 @@
 
 ### Building a driving system  
 - Level of arduino
-
+- DC motor
+- Motor driver
+- Two gear
+- 
 ### Building a steering system  
 - Level of arduino
+- Servo motor or DC motor
+- Making frame using a foam board
 
 ### Recognizing the objects
 - Camera, RADER, and LIDER
