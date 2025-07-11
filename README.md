@@ -6,7 +6,7 @@
 - DC motor
 - Motor driver
 - Two gear
-- 
+
 ### Building a steering system  
 - Level of arduino
 - Servo motor or DC motor
