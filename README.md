@@ -1,5 +1,8 @@
 < [Main Page](https://enginebeast.github.io/) < [RC car project](https://enginebeast.github.io/RCcar/)
 
+### Choosing appropriate motors for the project and puchasing them
+
+### Controlling motors with an arduino
 
 ### Building a driving system  
 - Level of arduino
