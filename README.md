@@ -2,16 +2,18 @@
 
 ### Choosing appropriate motors for the project and puchasing them
 
-### Controlling motors with an arduino
+### Controlling a servo motor using serial communication with Arduino
+
+### Controlling a DC motor using serial communication with Arduino
+- Motor driver
+
+### Controlling servo motor and DC motor with an arduino
 
 ### Building a driving system  
-- Level of arduino
-- DC motor
-- Motor driver
 - Multiple gears
+- Making frame using a foam board  
 
 ### Building a steering system  
-- Level of arduino
 - Servo motor or DC motor
 - Making frame using a foam board
 
